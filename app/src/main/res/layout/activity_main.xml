@@ -42,4 +42,10 @@
         android:layout_height="wrap_content"
         android:text="Hello World!" />
 
+    <fragment
+        android:id="@+id/fg1"
+        android:name="qianfeng.a7_1butterknife2.MyFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>
